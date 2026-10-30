@@ -22,6 +22,13 @@
     alt="Connect with me on LinkedIn"
   />
 </a>
+&nbsp;
+<a href="https://orcid.org/0009-0008-4977-6316">
+  <img
+    src="https://img.shields.io/badge/ORCID-Connect%20with%20me-a6ce39?style=for-the-badge&logo=orcid&logoColor=white"
+    alt="Connect with me on ORCID"
+  />
+</a>
 
 </div>
 <!--
